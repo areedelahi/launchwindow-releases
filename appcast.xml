@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LaunchWindow</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 15 Aug 2026 01:33:38 +0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://areedelahi.github.io/launchwindow-releases/LaunchWindow-1.0.0.dmg" length="3121520" type="application/octet-stream" sparkle:edSignature="TcoQxdX+S3NHsGOs2T1ojr7BSpRBD2wAi8InzagusGNAccFIVQVNvixn/18h90aQXb4JIS+J69WoIczOiGggBQ=="/>
+        </item>
+    </channel>
+</rss>
