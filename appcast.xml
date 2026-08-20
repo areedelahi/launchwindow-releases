@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://areedelahi.github.io/launchwindow-releases/LaunchWindow-1.0.0.dmg" length="3133353" type="application/octet-stream" sparkle:edSignature="TXxc0nVWYJ5cWHE2nA8yt5SJUuQGwBUPqlI2GUWs2zTbZJz9CvqaVic2zwN/MdTS1tc3S18DhZjY0QLolUa8DQ=="/>
+            <enclosure url="https://areedelahi.github.io/launchwindow-releases/LaunchWindow-1.0.0.dmg" length="3133349" type="application/octet-stream" sparkle:edSignature="oy+ndXHAkdIBthQ05cuuaUt8NrRUX2KR5dW6LdwW+CEGh0lXXqHycmmDSp8JMa7VefJmI7PSq0MAZGxYim77DA=="/>
         </item>
     </channel>
 </rss>
